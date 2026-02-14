@@ -1,0 +1,25 @@
+# Roblox development ignores
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+*.backup
+*.swp
+.DS_Store
+Thumbs.db
+
+# Roblox specific
+*.rbxmx
+*.rbxm
+*.asset
+*.mesh
+*.rbxmxl
+*.rbxme
+*.rblx
+
+# Other IDE specific ignores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
